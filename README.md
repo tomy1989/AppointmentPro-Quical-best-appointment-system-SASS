@@ -45,6 +45,8 @@ For questions, support, or business inquiries, please contact us at:
 - **Email:** [poli.tomy21@gmail.com](mailto:poli.tomy21@gmail.com)
 - **Phone:** +972546162881
 - **Business Site:** [weblix.co.il](https://weblix.co.il)
+- **LinkedIn:** [Tomy Poliakov](https://www.linkedin.com/in/tomy-poliakov-8264021b0/)
+
 
 ## License
 
